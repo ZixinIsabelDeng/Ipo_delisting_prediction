@@ -1,6 +1,6 @@
 # IPO Delisting Prediction
 
-This project predicts whether an IPO company will be **delisted within the next five quarters** based on financial statement data.  
+This project predicts whether an IPO company will be **delisted within the next five quarters** based on financial statement data retrieve by https://github.com/ZixinIsabelDeng/selenium-web-scraping-tool-.  
 It is built on my original GitHub research project [Predicting-the-Delisting-of-an-IPO-Company-Within-the-Next-Five-Quarters](https://github.com/ZixinIsabelDeng/Predicting-the-Delisting-of-an-IPO-Company-Within-the-Next-Five-Quarters)  
 and expanded into a modular, config-driven workflow with Jupyter notebooks.
 
@@ -109,3 +109,4 @@ This makes the pipeline flexible and easily adjustable.
 
 Developed by **Zixin (Isabel) Deng**.  
 Feedback and contributions are welcome! 🚀
+

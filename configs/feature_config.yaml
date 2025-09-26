@@ -1,0 +1,17 @@
+features:
+  numeric:
+    - salesQ1
+    - netIncomeQ1
+    - totalAssetQ1
+    - totalLiabilitiesQ1
+    - opCashflowQ1
+    - lev_ratio_q1
+    - profit_margin_q1
+    - cashflow_ratio_q1
+  categorical:
+    - symbol
+    - exchange
+meta:
+  - ipoDate
+  - delistingDate
+target: Delisted
